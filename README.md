@@ -11,7 +11,11 @@
 ```bash
   database.sql
 ```
-3 - Run the app
+3 - Change database Config in 
+```bash
+  config/db.config.js
+```
+4 - Run the app
 ```bash
   node index
 ```
